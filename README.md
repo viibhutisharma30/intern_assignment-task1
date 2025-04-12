@@ -1,10 +1,10 @@
-# 🧑‍🏫 Personalized Mentor Recommendation System (CLAT)
+# Personalized Mentor Recommendation System (CLAT)
 
 This project is a content-based recommendation system that helps CLAT aspirants find the most suitable mentors (CLAT toppers) based on their profiles and preferences.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Design a simple AI/ML-based model to recommend mentors to CLAT aspirants using user profile information, such as:
 
@@ -15,7 +15,7 @@ Design a simple AI/ML-based model to recommend mentors to CLAT aspirants using u
 
 ---
 
-## 🧠 Summary of the Approach
+## Summary of the Approach
 
 We implemented a **content-based filtering recommendation system** using **cosine similarity**:
 
@@ -30,7 +30,7 @@ We implemented a **content-based filtering recommendation system** using **cosin
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository or Download the Notebook
 
