@@ -67,7 +67,7 @@ This can be used later to:
 
 1. Incorporate collaborative filtering
 2. Refine mentor ranking
-3.Collect mentor performance statistics
+3. Collect mentor performance statistics
 
 ---
 
