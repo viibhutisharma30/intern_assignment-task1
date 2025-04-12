@@ -32,7 +32,7 @@ We implemented a **content-based filtering recommendation system** using **cosin
 
 ## Setup Instructions
 
-### 1. Clone the Repository or Download the Notebook
+### Clone the Repository or Download the Notebook
 
 ```bash
 git clone https://github.com/yourusername/mentor-recommender-clat.git
