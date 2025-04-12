@@ -59,7 +59,7 @@ It will:
 A simulated feedback structure is included:
 ```
 feedback = {
-    1: {101: 5, 102: 4},  # Aspirant 1 gave ratings
+    1: {101: 5, 102: 4},  
     2: {104: 2, 106: 5}
 }
 ```
